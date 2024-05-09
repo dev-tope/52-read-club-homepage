@@ -31,8 +31,8 @@ const books = [
   //   chapter: "4",
   //   author: "Yuval Harrari",
   //   genre: "history",
-  //   picture: '',
-  //   summary: '',
+  //   picture: "src/img/lhm.jpg",
+  //   summary: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur dolor error rerum adipisci officia nobis maiores porro ",
   // },
   // {
   //   title: "The Black Swan",
